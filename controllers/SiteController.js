@@ -12,4 +12,4 @@ SiteController.Contact = function(req, resp) {
   resp.render("site/contact")
 }
 
-module.exports = SiteController
+module.exports = SiteController;
